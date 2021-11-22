@@ -1,5 +1,5 @@
 <template>
-    <div class="login">fdgseer</div>
+    <div class="login">登录</div>
 </template>
 <script>
 export default {
